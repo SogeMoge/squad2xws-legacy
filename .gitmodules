@@ -1,6 +1,8 @@
 [submodule "xwing-data2"]
 	path = xwing-data2
-	url = git://github.com/guidokessels/xwing-data2.git
+	url = git://github.com/SogeMoge/xwing-data2.git
+	branch = feature/legacy
 [submodule "xwing"]
 	path = xwing
-	url = git://github.com/raithos/xwing.git
+	url = git://github.com/Gan0n29/xwing.git
+	branch = xwing-legacy
